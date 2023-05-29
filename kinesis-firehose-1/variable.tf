@@ -19,5 +19,5 @@ variable "ec2_config" {
 #Key name, the created key name
 variable "my_ec2_key" {
   type    = string
-  default = "Bidata"
+  default = "<Keypair name>"
 }
